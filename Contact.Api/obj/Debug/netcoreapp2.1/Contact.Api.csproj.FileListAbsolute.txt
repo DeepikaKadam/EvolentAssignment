@@ -1,0 +1,11 @@
+D:\Deepika\Personal\Contact.Api\Contact.Api\obj\Debug\netcoreapp2.1\Contact.Api.csprojAssemblyReference.cache
+D:\Deepika\Personal\Contact.Api\Contact.Api\obj\Debug\netcoreapp2.1\Contact.Api.csproj.CoreCompileInputs.cache
+D:\Deepika\Personal\Contact.Api\Contact.Api\obj\Debug\netcoreapp2.1\Contact.Api.AssemblyInfoInputs.cache
+D:\Deepika\Personal\Contact.Api\Contact.Api\obj\Debug\netcoreapp2.1\Contact.Api.AssemblyInfo.cs
+D:\Deepika\Personal\Contact.Api\Contact.Api\bin\Debug\netcoreapp2.1\Contact.Api.deps.json
+D:\Deepika\Personal\Contact.Api\Contact.Api\bin\Debug\netcoreapp2.1\Contact.Api.runtimeconfig.json
+D:\Deepika\Personal\Contact.Api\Contact.Api\bin\Debug\netcoreapp2.1\Contact.Api.runtimeconfig.dev.json
+D:\Deepika\Personal\Contact.Api\Contact.Api\bin\Debug\netcoreapp2.1\Contact.Api.dll
+D:\Deepika\Personal\Contact.Api\Contact.Api\bin\Debug\netcoreapp2.1\Contact.Repository.dll
+D:\Deepika\Personal\Contact.Api\Contact.Api\bin\Debug\netcoreapp2.1\Contact.Repository.pdb
+D:\Deepika\Personal\Contact.Api\Contact.Api\obj\Debug\netcoreapp2.1\Contact.Api.csproj.CopyComplete
